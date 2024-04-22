@@ -134,8 +134,15 @@ This phase involves using the insights gained from the EDA and hypothesis testin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![alt text](image.png)
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20012631.jpg)
 
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20011405.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20011659.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20012203.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20011606.jpg)
 
 <!-- GETTING STARTED -->
 
