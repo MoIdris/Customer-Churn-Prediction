@@ -272,8 +272,6 @@ Various analytical methods and techniques were utilized to extract insights from
 Based on the analysis conducted, several key findings emerged:
 
 
-
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -292,7 +290,7 @@ Based on the analysis conducted, several key findings emerged:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **Develop a model for this project**
+- **Add a front end application for users**
   
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
