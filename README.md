@@ -151,13 +151,13 @@ This phase involves using the insights gained from the EDA and hypothesis testin
 
 ![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20014315.jpg)
 
-![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20011405.jpg)
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015349.jpg)
 
-![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20011659.jpg)
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015528.jpg)
 
-![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20012203.jpg)
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015613.jpg)
 
-![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20011606.jpg)
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015724.jpg)
 
 <!-- GETTING STARTED -->
 
