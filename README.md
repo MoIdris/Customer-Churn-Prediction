@@ -136,7 +136,7 @@ This phase involves using the insights gained from the EDA and hypothesis testin
 
 ![image](![alt text](image.png))
 
-![image](https://github.com/coderacheal/Attrition-Insight/assets/97846040/a0f9bf95-b847-4a9b-963b-8d875a0b0fc1)
+![image](https://app.powerbi.com/groups/me/reports/7336360a-8f01-4c1e-b3e8-70dd7197b039/ReportSection?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=shareVisual&visual=01f2fa50ecd74fe82088&height=36.67&width=1279.86&bookmarkGuid=18a5b51c-5873-4445-b041-56647b71f450)
 
 
 <!-- GETTING STARTED -->
