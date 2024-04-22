@@ -1,10 +1,7 @@
-# Customer-Churn-Predictor
-A machine learning model to predict customer churn
-
 <a name="readme-top"></a>
 
 <div align="center">
-   <h1><b>Customer-Churn-Prediction</b></h1>
+   <h1><b>Customer-Churn-Prediction : A machine learning model to predict customer churn</b></h1>
 </div>
 
 Below is a summary of the procedure structure on this project. To view a full project documentation, kindly visit this page (https://medium.com/@idmoh44/machine-learning-model-customer-churn-prediction-17a8ed80d130)
@@ -93,6 +90,14 @@ Categorical Features:
   </ul>
 </details>
 
+<details>
+<summary>Model</summary>
+  <ul>
+    <li><a href="">Sklearn</a></li>
+  </ul>
+</details>
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- Features -->
 
@@ -100,10 +105,10 @@ Categorical Features:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-1. Business Understanding:
+**1. Business Understanding:**
 This is the initial phase where I define the business problem, objectives, and outcomes. I also identified the key stakeholders and understand their expectations.
 
-2. Data Understanding:
+**2. Data Understanding:**
 This phase involves the following steps:
 
 - Importation: Acquiring the necessary data for the project.
@@ -112,21 +117,47 @@ This phase involves the following steps:
 - Hypothesis: Formulating hypotheses that I will test during the analysis.
 - Business Questions: Identifying the key questions that the business needs answers to.
 
-3. Data Preprocessing:
+**3. Data Preprocessing:**
 This phase involves preparing the data for analysis. This could include data cleaning, data transformation, and data integration.
 
-4. Data Cleaning:
+**4. Data Cleaning:**
 This phase involves identifying and correcting errors in the data, dealing with missing values, and removing duplicates.
 
-5. Hypothesis Testing:
+**5. Hypothesis Testing:**
 This phase involves testing the hypotheses that were formulated during the data understanding phase. This could involve statistical tests to determine if there is a significant relationship between variables.
 
-6. Exploratory Data Analysis (EDA):
+**6. Exploratory Data Analysis (EDA):**
 This phase involves exploring the data to understand its characteristics and patterns. This could involve visualizing the data, calculating descriptive statistics, and identifying correlations.
 
-7. Analysis of Business Questions:
+**7. Analysis of Business Questions:**
 This phase involves using the insights gained from the EDA and hypothesis testing to answer the business questions identified earlier. This could involve building predictive trends, segmenting the data, or conducting further statistical tests.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20012631.jpg)
+
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20013801.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20014118.jpg)
+
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20014204.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20013921.jpg)
+
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20014006.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20014315.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015349.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015528.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015613.jpg)
+
+![image](https://github.com/MoIdris/Customer-Churn-Predictor/blob/modelBuiling/Dashboard/Screenshot%202024-04-22%20015724.jpg)
 
 <!-- GETTING STARTED -->
 
@@ -241,8 +272,6 @@ Various analytical methods and techniques were utilized to extract insights from
 Based on the analysis conducted, several key findings emerged:
 
 
-
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -261,7 +290,7 @@ Based on the analysis conducted, several key findings emerged:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **Develop a model for this project**
+- **Add a front end application for users**
   
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -288,7 +317,7 @@ If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all my team member for their coorperation, commitment and support. My greatest appreciation goes to Viollete and Rahael for their immense guidance and support.Thanks to all online contributors for the available resources.
+I would like to thank all my team member for their coorperation, commitment and support. My greatest appreciation goes to Rahael for their immense guidance and support.Thanks to all online contributors for the available resources.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
