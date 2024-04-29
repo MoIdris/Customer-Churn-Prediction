@@ -1,0 +1,25 @@
+{
+    "__class__": "Pipeline",
+    "steps": [
+        [
+            "preprocessor",
+            "ColumnTransformer",
+            {
+                "n_jobs": null,
+                "remainder": "drop",
+                "sparse_threshold": 0.3,
+                "transformer_weights": null,
+                "transformers": [
+                    [
+                        "num",
+                        {
+                            "__class__": "Pipeline",
+                            "steps": [
+                                [
+                                    "infer_missing_total_charge",
+                                    "FunctionTransformer",
+                                    {
+                                        "accept_sparse": false,
+                                        "check_inverse": true,
+                                        "feature_names_out": null,
+                                        "func": 
